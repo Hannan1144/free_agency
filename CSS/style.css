@@ -485,6 +485,10 @@ color: #fff;
 border: 1px solid #515151;
     
 padding: 10px;
+transition: .4s all ease-in-out;
+}
+.subcribe button:hover {
+    border: 1px solid #de2b24;
 }
 .subcribe button::placeholder {
     color: #fff;
